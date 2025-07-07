@@ -74,18 +74,5 @@ Ubah konfigurasi koneksi sesuai lingkungan development kamu
 
 Pastikan ekstensi SQLSRV telah aktif di PHP
 
-📸 Screenshot (Opsional)
-Tambahkan screenshot antarmuka jika diperlukan:
 
-markdown
-Copy
-Edit
-![Dashboard](screenshots/dashboard.png)
-🧑‍💻 Kontributor
-Nama: Wardi
-
-GitHub: github.com/wardi17
-
-🧾 Lisensi
-Proyek ini bebas digunakan untuk keperluan internal, pengujian, atau pembelajaran. Untuk penggunaan komersial, silakan hubungi pengembang terlebih dahulu.
 
