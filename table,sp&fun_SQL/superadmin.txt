@@ -1,0 +1,2 @@
+INSERT INTO [bmn].[dbo].[DailyActivity_user]([nama],[email],[password])
+     VALUES('Admin','super@admin.com','123')
