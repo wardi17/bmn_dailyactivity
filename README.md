@@ -1,16 +1,4 @@
-# BMN Daily Activity
 
-Aplikasi ini digunakan untuk mencatat aktivitas harian terkait Barang Milik Negara (BMN). Dibangun menggunakan PHP, HTML, CSS, Bootstrap, jQuery, dan database SQL Server.
-
-
-
-
-ChatGPT said:
-Berikut ini adalah isi lengkap file README.md dalam format Markdown, siap kamu copy dan paste langsung ke file README.md di root proyek GitHub-mu:
-
-markdown
-Copy
-Edit
 # BMN Daily Activity
 
 Aplikasi ini digunakan untuk mencatat aktivitas harian terkait Barang Milik Negara (BMN). Dibangun menggunakan PHP, HTML, CSS, Bootstrap, jQuery, dan database SQL Server.
